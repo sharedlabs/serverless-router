@@ -1,0 +1,11 @@
+{
+  "name": "serverless-router",
+  "description": "Serverless routing with middlewares",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "joi": "^9.2.0"
+  },
+  "devDependencies": {
+  }
+}
